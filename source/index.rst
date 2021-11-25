@@ -8,6 +8,10 @@ Welcome to eerose-diary's documentation!
 
 .. toctree::
    :maxdepth: 2
-   
-   hello
+   :numbered:
 
+   equip
+   tech
+   conscious
+   rule
+   
