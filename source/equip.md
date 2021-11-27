@@ -4,9 +4,8 @@
 
 下图为耐克球鞋的尺码表。在挑选球鞋时，无论什么牌子，我们都一般以日本码（JP码）为准，因为JP码对应的是脚长。
 
-<img src="https://live.staticflickr.com/65535/51705368542_f05ebfc43e_z.jpg"  alt="耐克足球鞋的尺码表" align="middle" />
+<img src="https://live.staticflickr.com/65535/51705368542_f05ebfc43e_z.jpg" alt="耐克足球鞋的尺码表" align="bottom" />
 
-![耐克足球鞋的尺码表](https://live.staticflickr.com/65535/51705368542_f05ebfc43e_z.jpg)
 
 - **球鞋的品牌**
 
