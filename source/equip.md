@@ -4,8 +4,18 @@
 
 下图为耐克球鞋的尺码表。在挑选球鞋时，无论什么牌子，我们都一般以日本码（JP码）为准，因为JP码对应的是脚长。
 
-<img src="https://live.staticflickr.com/65535/51705368542_f05ebfc43e_z.jpg" alt="耐克足球鞋的尺码表" align="bottom" />
-
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51705368542_f05ebfc43e_z.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      耐克足球鞋的尺码表
+  	</div>
+</center>
 
 - **球鞋的品牌**
 
@@ -33,10 +43,9 @@
 对于各大品牌的每个系列，一般分为入门/中端/次高端/高端/超顶。
 
 1. 新手建议选择入门/中端球鞋
-    中端球鞋是性价比最高的球鞋，虽然材料廉价一些，但是结实。相比于入门级球鞋，价格涨幅不大，舒适性也更好。
+    - 中端球鞋是性价比最高的球鞋，虽然材料廉价一些，但是结实。相比于入门级球鞋，价格涨幅不大，舒适性也更好。
 2. 高手建议次高端/高端/超顶
-
-高端、超顶球鞋虽然触感、舒适性很好，但是一般比较容易坏，职业球员甚至可以一场踢坏一双顶级球鞋。
+    - 高端、超顶球鞋虽然触感、舒适性很好，但是一般比较容易坏，职业球员甚至可以一场踢坏一双顶级球鞋。
 
 - **球鞋的鞋钉类型**
 
@@ -50,11 +59,45 @@
 
 注意，PUMA的HG钉型和ASICS的AS钉型，尽管钉子数目较多，但不满足“小碎钉”的要求。建议大家只买TF钉型的足球鞋。一些TF鞋底的图  
 
-![耐克的TF鞋底示例](https://live.staticflickr.com/65535/51703839463_9ab8329c4c_c.jpg)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51703839463_9ab8329c4c_c.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      耐克的TF鞋底示例
+  	</div>
+</center>
 
-![彪马的TF鞋底示例](https://live.staticflickr.com/65535/51706195086_5511489061_h.jpg)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51706195086_5511489061_h.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      彪马的TF鞋底示例
+  	</div>
+</center>
 
-![阿迪的TF鞋底示例](https://live.staticflickr.com/65535/51706814844_97459a1110_c.jpg)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51706814844_97459a1110_c.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      阿迪达斯的TF鞋底示例
+  	</div>
+</center>
+
 
 除了TF之外，常见的还有AG/FG/SG钉型。钉子数目逐渐变少，长度逐渐变大，材质逐渐变硬，踩人逐渐变疼。
 
