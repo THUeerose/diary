@@ -1,5 +1,44 @@
 ## 足球技术
 ### 触球区域
+常见的触球区域有以下几个：
+1. 脚弓
+    - 主要用于短传
+    - 离球门较近时可以脚弓推射破门
+2. 外脚背
+    - 主要用于带球/变向
+3. 脚背内侧（又称内脚背/里脚背）
+    - 主要用于长传
+4. 脚内侧
+    - 主要用于控球
+5. 脚尖
+    - 天若有情天亦老，门前乱战捅一脚
+6. 脚后跟
+    - 用的比较少，脚后跟磕一下球有时可以完成出其不意的传球或破门。
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51711349615_77c372c2d8_c.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      球鞋俯视图
+  	</div>
+</center>
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://live.staticflickr.com/65535/51710744953_14d8a11968_c.jpg" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      球鞋左视图
+  	</div>
+</center>
 
 ### 脚弓短传
 

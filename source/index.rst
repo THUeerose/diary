@@ -14,3 +14,6 @@ Welcome to eerose-diary!
    tech
    conscious
    rule
+   training
+   eat
+   match
