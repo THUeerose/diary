@@ -85,7 +85,7 @@
 
 右脚和左脚的传球视频如下：（之后想办法换质量更高的视频）
 
-![右脚脚弓传球](https://i.loli.net/2021/11/29/hTYeEi1RkqM6O4X.gif)
+![右脚脚弓传球](https://i.loli.net/2021/11/30/w8gydamsOV1uq23.gif)
 
 ![左脚脚弓传球](https://i.loli.net/2021/11/29/YGxHuVp7oizgS2N.gif)
 
