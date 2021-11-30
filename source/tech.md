@@ -84,10 +84,32 @@
     - 顶脚跟。逆足训练中非常实用的一个小口诀，一般刚开始练习左脚时，球路会偏右，这就是最后缺乏“顶脚跟”这一下。右脚由于锻炼比较多，因此可能球路偏左不会特别的明显。但是在训练中牢记“顶脚跟”对于触球时良好肌肉记忆的形成是有好处的。不过也要注意，不要过分顶脚跟，变成脚跟传球了2333。
 
 右脚和左脚的传球视频如下：（之后想办法换质量更高的视频）
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i.loli.net/2021/11/30/w8gydamsOV1uq23.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      右脚脚弓传球
+  	</div>
+</center>
 
-![右脚脚弓传球](https://i.loli.net/2021/11/30/w8gydamsOV1uq23.gif)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i.loli.net/2021/11/29/YGxHuVp7oizgS2N.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      左脚脚弓传球
+  	</div>
+</center>
 
-![左脚脚弓传球](https://i.loli.net/2021/11/29/YGxHuVp7oizgS2N.gif)
 
 ### 推射破门
     - Recommended by Yichi Zhang
@@ -115,6 +137,18 @@
     - 身体朝向可以微微朝左偏，但不要大幅朝左偏。如果在带球过程中身体朝左的幅度特别大，请检查脚型与腿型是否不正确。
 
 ### 正脚背射门
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i.loli.net/2021/11/30/r6Y7OoKUTvf8RmZ.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      正脚背抽射
+  	</div>
+</center>
 
 ### 内脚背长传
 1. 脚的触球部位
