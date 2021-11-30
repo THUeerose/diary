@@ -219,3 +219,16 @@
         3） 击球时力量集中于右脚，左脚可以迅速地跳起，感受完全由右脚主导的暴力长传。（日本前国脚的tips）
 6. 动作的流畅性
     - 之前提到这么多分解步骤，实际上长传这个技术动作是需要连贯完成的。或许有部分步骤可以单独一下找找感觉，例如迈最后一步，再例如击球时脚面下翻的脚型，但还是以练习完整动作为主。我们首先需要在脑海中建立起正确的长传步骤，踢完之后实际上一般自己就能发现问题的所在了。
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i.loli.net/2021/11/30/V3IetdifYXKNwgn.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      前国足球员长传
+  	</div>
+</center>
