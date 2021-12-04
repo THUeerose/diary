@@ -23,7 +23,7 @@
 
 1. 耐克(Nike)
     - 传奇系列(Tiempo) 
-    - 鬼牌系列(Phantom)
+    - 暗煞系列(Phantom)
     - 刺客系列(Mercurial)
 2. 阿迪达斯(Adidas)  
     - 猎鹰系列(Predator)
