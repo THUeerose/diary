@@ -215,14 +215,80 @@
 </center>
 
 ### 内脚背长传
+先看个正确的，以免先被错误动作洗脑。
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://i.loli.net/2021/11/30/V3IetdifYXKNwgn.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      前国足球员长传。
+  	</div>
+</center>
+
 1. 脚的触球部位
     - **内脚背！脚背内侧！里脚背！**
     - 内脚背实际上是比较坚硬的面，因此一般踢完长传脚不会疼。
     - 新手常见错误一般有两个：
 
         1） 使用横向扫堂腿，触球部位为脚内侧，一般踢完会有点疼，且不高，且歪。
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/FWZo3QejqNOfTJ1.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            使用扫堂腿时，触球部位为脚内侧那条棱。脚面朝天，横扫而过。
+            </div>
+        </center>
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/UhY7JiN9OL5maqd.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            使用扫堂腿时，触球面积很小（真*降维打击）。脚包不住球，容易朝右偏。
+            </div>
+        </center>
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/GJ3k56U8AdYcWvZ.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            使用扫堂腿时，如果侥幸没有朝右偏，也很容易踢不高，有点像“自行车掉链子”那样干转不动的感觉。
+            </div>
+        </center>
         
         2） 做成短传Plus，触球部位为脚弓，运气如果好，能踢到球的中心偏下一点点的地方，然后球只能贴地飞翔or跳水。
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/cwBRld4k5LMqv26.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            使用短传Plus时，触球部位为脚弓。看出来这推射球门上角的感觉了么。
+            </div>
+        </center>
+
 2. 球的触脚部位
     - 击球点=球的触脚部位
     - 击球点应该在球的中底部向上1/4的位置。如果到1/3左右，会变成“平快”球，高度会较低，球速会更快一些。不过这样也行。
@@ -266,7 +332,32 @@
     - 实际上发力比较靠腰腹核心力量。如何感受这一点？左手臂张开后，随着右腿的前摆击球，左手臂快速向右下小腹折叠。通过这种相对运动带来的“折叠感”，你或许能够感受到腰腹的重要性。在这个相对运动的过程中，你的腰腹就是那个轴心。
     - 整个过程中，身体注意避免过度后仰，由击球惯性导致的一丁点后仰是正常的。
 6. 脚型与摆腿
-    - **大腿摆动决定下限，小腿摆动决定上限**。
+    - **小腿摆动决定下限，大腿摆动决定上限**。光靠大腿直愣愣地带着小腿摆动是很难起球的，因为这样留给整条右腿的加速空间非常小；依靠小腿的快速摆动可以轻易地将腿的角速度提起来，从而使得击球时获得非常大的线速度。如果大腿合理地带动小腿，默契联动起来，则可以达到更快的击球速度。
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2021/12/06/MH8ROsQjShILGnN.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        只要脚踝锁紧，脚型正确，仅靠小腿摆动，一步是可以起球的！
+        </div>
+    </center>
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2021/12/06/WSOM7uALtv26Rfx.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        小腿一步起球慢动作。
+        </div>
+    </center>
+
     - **脚尖自始至终是下压状态**，脚趾有抓住鞋底的感觉，使得击球部位（内脚背）处于绷紧状态。
     - 已知迈出最后一大步时，右腿已经自然后摆。理想状态下，此时小腿尚未“折叠”完毕，但与大腿的夹角已经比较小，毕竟迈最后一步时小腿很难一下子摆到最高点。
         
@@ -287,6 +378,61 @@
         8） 击球后（再次强调脚尖始终是下压的），以膝盖为圆锥体的顶点，以右腿为母线画半个圆。请确认，右腿经过你的正前方时，脚尖应该基本上是朝正前方的！！
 
         9） 在右腿的“画半圆”的过程中，左脚也完成了使命可以松开了。“右腿画半圆”的过程有个术语叫做“随前”。
+
+        10） 其实，整个过程是把球”挤压出去“的感觉。看下面几个动图来分析一下。
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/OVczTWumM3pUGkw.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            大致正确，但又有一点不对劲的动作。
+            </div>
+        </center>
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/2kIlnPcZ7sTrHW1.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            慢动作下，可以看到，没有一种挤压出球的感觉，脚面下翻不够，脚尖下压还不够坚定。
+            </div>
+        </center>
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/HvR5W9qp3MTnAgO.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            这次击球就有一种把球压出去的感觉，脚面下翻比刚才视频中的要好一点点，不过依旧有提升空间。
+            </div>
+        </center>
+
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/06/YAsSQ2U5c97Rbly.gif" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            “挤压式”击球的慢动作。可以看到整个击球过程中，脚的紧绷感更强。
+            </div>
+        </center>
+        
 
     - 那么，如何进一步提升长传的距离呢？
         
