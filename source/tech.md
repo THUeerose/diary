@@ -417,9 +417,25 @@
             display: inline-block;
             color: #999;
             padding: 2px;">
-            “挤压式”击球的慢动作。可以看到整个击球过程中，脚的紧绷感更强。
+            “挤压式”击球的慢动作。可以看到整个击球过程中，脚的紧绷感更强，脚尖下压更充分。
             </div>
         </center>
+
+        是不是还是感觉差别不大。那么分别取击球前后两帧进行分析。
+        <center>
+            <img style="border-radius: 0.3125em;
+            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+            src="https://s2.loli.net/2021/12/07/hbsmGaMABuxtigj.png" width = "90%" alt=""/>
+            <br>
+            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block;
+            color: #999;
+            padding: 2px;">
+            两个视频在击球前后，脚的下压状态是有差异的。我们需要在击球前后极短的时间内（1/60s以内）保持脚尖的充分下压，将球“挤出去”。
+            </div>
+        </center>
+
+        目前这两种踢法虽然都能踢起来，但是大概都只有35米左右。如果要踢到45米，那么采用后一种挤压式踢法的话，发力会更容易一些。特别是如果击球部位再靠上一点的“平快球”，更是采用的后一种击球方法——需要脚的姿态更加“横”一些，同样是脚尖下压，用脚背把球挤出去，可以看一下底部徐亮的平快球教学gif。
         
 
     - 那么，如何进一步提升长传的距离呢？
