@@ -262,18 +262,6 @@
             </div>
         </center>
 
-        <center>
-            <img style="border-radius: 0.3125em;
-            box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/GJ3k56U8AdYcWvZ.gif" width = "90%" alt=""/>
-            <br>
-            <div style="color:orange; border-bottom: 1px solid #d9d9d9;
-            display: inline-block;
-            color: #999;
-            padding: 2px;">
-            使用扫堂腿时，如果侥幸没有朝右偏，也很容易踢不高，有点像“自行车掉链子”那样干转不动的感觉。
-            </div>
-        </center>
         
         2） 做成短传Plus，触球部位为脚弓，运气如果好，能踢到球的中心偏下一点点的地方，然后球只能贴地飞翔or跳水。
         <center>
@@ -384,7 +372,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/OVczTWumM3pUGkw.gif" width = "90%" alt=""/>
+            src="https://s2.loli.net/2021/12/06/PgNqYJk49T6wnvC.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -403,7 +391,7 @@
             display: inline-block;
             color: #999;
             padding: 2px;">
-            慢动作下，可以看到，没有一种挤压出球的感觉，脚面下翻不够，脚尖下压还不够坚定。
+            慢动作下，可以看到，没有挤压出球的感觉。造成这点的主要原因是脚面下翻不够，脚尖下压还不够坚定。
             </div>
         </center>
 
@@ -416,7 +404,7 @@
             display: inline-block;
             color: #999;
             padding: 2px;">
-            这次击球就有一种把球压出去的感觉，脚面下翻比刚才视频中的要好一点点，不过依旧有提升空间。
+            这次击球稍微有一种把球压出去的感觉，脚面下翻比刚才视频中的要好一点点，不过依旧有提升空间。
             </div>
         </center>
 
@@ -452,7 +440,7 @@
         2） 通过上一阶段的练习，理论上至少已经能够习惯在击球前后保持脚踝锁紧与脚尖下压了。但是上一阶段没有特意强调摆腿。第二阶段需要在身体朝向保持基本正直的情况下，45度助跑，有意识地培养小腿的摆动速度，并且触球位置尽可能靠下。只要小腿摆动速度较快，在第一阶段的训练基础上，就能把球踢起来了。不过可能不会很高，因为第二阶段没有强调脚面的下翻（脚面朝向前方）。
 
         3） 来到第三阶段。第三阶段需要培养脚面下翻的意识，以及逐渐固定小腿的摆动。通过观察击球的慢动作回放可以发现，大多数人在击球时，自以为保持了脚尖的绷紧，但实际上如果加上脚面下翻这个动作，很多人的脚尖“条件反射一般地畏惧了”。这也很自然，因为如果脚面不下翻击球，身体会默认这种击球方式不会伤害到自己的脚尖，击球轨迹不会与地方发生潜在碰撞的可能性。但是，如果脚面下翻了(脚面转向前方），身体就不这么认为了，这种击球方式是有可能与地面发生碰撞的。所以导致的结果是，脚尖会在脚面下翻击球时，“退缩了”，脚尖下意识地在击球瞬间放弃了绷紧的状态。第三阶段的训练，需要大家自己感受，击球时脚尖有没有缩回去或者勾起来。这种身体条件反射造成的扭曲是需要不断地练习来矫正的。如果大家能够在脚面下翻击球时保持脚尖的绷紧，加上前面两个阶段的训练，一定可以成功的。
-
+    
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -465,6 +453,33 @@
         前国足球员长传
         </div>
     </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2021/12/06/8v4Hg6A3BsZfDeO.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        另一位知名前国足球员路过，“平快球”的慢动作，击球位置从下往上1/3。
+        </div>
+    </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2021/12/06/txJKiBWpC1LabcN.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        连贯动作。可以看到两位职业球员的脚尖下压都非常充分。
+        </div>
+    </center>
+
     - 最后，感觉这个动作确实有点费鞋钉，碎钉可能还好，长钉子比较容易磨秃。
     <center>
         <img style="border-radius: 0.3125em;
