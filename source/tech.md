@@ -88,7 +88,7 @@
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i.loli.net/2021/11/30/w8gydamsOV1uq23.gif" width = "90%" alt=""/>
+    src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/bc5f7b9997f72f5ad4819ba43759450064a71421.gif" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -101,7 +101,7 @@
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i.loli.net/2021/11/29/YGxHuVp7oizgS2N.gif" width = "90%" alt=""/>
+    src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/e9a168611bae527c6a0dd7f339e26414827b88c9.gif" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -127,7 +127,7 @@
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://s2.loli.net/2021/12/04/NmojLUbuzvgQiAG.gif" width = "90%" alt=""/>
+    src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/c7bffbc17494bfaa75357ea852ec9c976c5d00ee.gif" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -204,7 +204,7 @@
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i.loli.net/2021/11/30/r6Y7OoKUTvf8RmZ.gif" width = "90%" alt=""/>
+    src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/b7f291667a32ab1171ce03154cb06c4af8140c1e.gif" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -219,7 +219,7 @@
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="https://i.loli.net/2021/11/30/V3IetdifYXKNwgn.gif" width = "90%" alt=""/>
+    src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/a8870d5630ba2309c46b853a3933b11ba3832520.gif" width = "90%" alt=""/>
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
@@ -239,7 +239,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/FWZo3QejqNOfTJ1.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/0c95a8581f40d3a6c56296f70eb7303f75bed469.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -252,7 +252,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/UhY7JiN9OL5maqd.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/109cc339725e3fefe99980b854bd720066948b3e.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -267,7 +267,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/cwBRld4k5LMqv26.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/292b0d21a544cc588592d5cdb938ea093264e24e.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -296,7 +296,7 @@
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/04/BOy7ZkrDsR3lGhC.jpg" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/612c651a77c39f8023e247fc4c4dbd28f050c1d0.jpg" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
@@ -324,19 +324,19 @@
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/06/MH8ROsQjShILGnN.gif" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/cfd111b09f49ca98142f46277b3aaa8a59207248.gif" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
         color: #999;
         padding: 2px;">
-        只要脚踝锁紧，脚型正确，仅靠小腿摆动，一步是可以起球的！
+        只要脚踝锁紧，脚型正确，仅靠小腿摆动，一步是可以起球的！（不过这边脚尖勾起来了...不是太好）
         </div>
     </center>
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/06/WSOM7uALtv26Rfx.gif" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/1638a8f8a73ce62eb1b47705b1203a49ead0effc.gif" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
@@ -372,7 +372,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/PgNqYJk49T6wnvC.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/953f0e24ece75a0bf19211d0b743129b8b470a62.gif " width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -385,7 +385,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/2kIlnPcZ7sTrHW1.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/dbdd7c24b976b7be2739a8e7d43d9d087f3f0eb3.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -398,7 +398,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/HvR5W9qp3MTnAgO.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/bee100d1cb12eb69f39e4d2313e5b276c028eb1b.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -411,7 +411,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/06/YAsSQ2U5c97Rbly.gif" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/d125133336ab0194773cb07b5c719fa92fd612ee.gif" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -425,7 +425,7 @@
         <center>
             <img style="border-radius: 0.3125em;
             box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-            src="https://s2.loli.net/2021/12/07/hbsmGaMABuxtigj.png" width = "90%" alt=""/>
+            src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/1f1c2c02a7da3a0b77543dd0f9b79fb05164da9c.png" width = "90%" alt=""/>
             <br>
             <div style="color:orange; border-bottom: 1px solid #d9d9d9;
             display: inline-block;
@@ -460,7 +460,7 @@
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://i.loli.net/2021/11/30/V3IetdifYXKNwgn.gif" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/a8870d5630ba2309c46b853a3933b11ba3832520.gif" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
@@ -473,20 +473,20 @@
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/06/8v4Hg6A3BsZfDeO.gif" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/5aff1baa2a09fd8c1a504538e8190f28b3871762.gif" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
         color: #999;
         padding: 2px;">
-        另一位知名前国足球员路过，“平快球”的慢动作，击球位置从下往上1/3。
+        另一位来自北京国安的知名前国足球员路过，“平快球”的慢动作，击球位置从下往上1/3。
         </div>
     </center>
 
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/06/txJKiBWpC1LabcN.gif" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/304ca197471ff353f3083167ac139ed0a9592653.gif" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
@@ -500,7 +500,7 @@
     <center>
         <img style="border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src="https://s2.loli.net/2021/12/06/cx6dCeZO1gh4jRm.jpg" width = "90%" alt=""/>
+        src="https://images.weserv.nl/?url=https://article.biliimg.com/bfs/article/a3c6329e83e6e7af7105b9e56ea7b28ba953292b.jpg" width = "90%" alt=""/>
         <br>
         <div style="color:orange; border-bottom: 1px solid #d9d9d9;
         display: inline-block;
