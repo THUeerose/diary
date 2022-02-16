@@ -84,7 +84,66 @@
     - 腿往前。击完球之后，有自然的随前动作，不要大幅摆腿，更不要朝左右（主要是左）随意摆动，要有对小腿的持续性掌控，这样才能确保击球过程中脚踝始终是锁紧状态，达到一个比较高的击球质量。
     - 顶脚跟。逆足训练中非常实用的一个小口诀，一般刚开始练习左脚时，球路会偏右，这就是最后缺乏“顶脚跟”这一下。右脚由于锻炼比较多，因此可能球路偏左不会特别的明显。但是在训练中牢记“顶脚跟”对于触球时良好肌肉记忆的形成是有好处的。不过也要注意，不要过分顶脚跟，变成脚跟传球了2333。
 
-右脚和左脚的传球视频如下：（之后想办法换质量更高的视频）
+右脚脚弓传球的演示视频如下：
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/02/16/Kie47hlMn5ag9vW.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      右脚脚弓传球
+  	</div>
+</center>
+
+球在传出去的时候，一开始是不转的，慢动作如下：
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/02/16/duirsKqbpjtaNBY.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      右脚脚弓出球时的慢动作
+  	</div>
+</center>
+
+职业球员传球时，慢动作如下：
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/02/16/zpKXyTsrAEVaboF.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      左脚脚弓传球，球出去的时候是不转的
+  	</div>
+</center>
+
+脚弓传接球连贯视频如下：
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://s2.loli.net/2022/02/16/3QTgefZMV8BGASH.gif" width = "90%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">
+      右脚脚弓传球
+  	</div>
+</center>
+
+
+
+
+<!-- 右脚和左脚的传球视频如下：（之后想办法换质量更高的视频）
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -109,7 +168,7 @@
     padding: 2px;">
       左脚脚弓传球
   	</div>
-</center>
+</center> -->
 
 
 ### 推射破门
