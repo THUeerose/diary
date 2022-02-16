@@ -136,7 +136,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      右脚脚弓传球
+      脚弓传接球连贯视频
   	</div>
 </center>
 
@@ -235,6 +235,71 @@
         </div>
     </center>
     - 左脚蹬地爆发，重心直接往前，右小腿与右脚配合顺势推球，右脚踏下短暂收速，左脚迅速跟上，再来一个疗程。
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2022/02/16/zReDxq1t7ipKWZ8.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        带球时的身体姿态
+        </div>
+    </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2022/02/16/9LeORhArwWJCuDs.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        前脚掌发力，后腿蹬地起步
+        </div>
+    </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2022/02/16/EfuxTeQ4D1lPMbr.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        接触球的正中间，使球平动。
+        </div>
+    </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2022/02/16/PwtxlQ2oVIe3k6U.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        触球位置过低，难以控制
+        </div>
+    </center>
+
+    <center>
+        <img style="border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src="https://s2.loli.net/2022/02/16/i3lnBx24HwafLUR.gif" width = "90%" alt=""/>
+        <br>
+        <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        触球位置过高，容易崴脚
+        </div>
+    </center>
 
 ### 正脚背射门
 1. 脚的触球部位
